@@ -1,0 +1,12 @@
+---
+:id: 141387600
+:submitters:
+- :name: Juan Cruz
+  :email: jcruz85@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-17 01:21:07.405874000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-16 18:21:07.405874000 Z
+:status: processed
+:score: 95.0
